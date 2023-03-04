@@ -5,7 +5,7 @@ export default function appRoutes(app:Application){
         res.send("Say Hi")
     })
 
-    app.use("/responseHi", (req:any, res:any) => {
-        res.send("Vu Duy Nhien saw your message and He says hii")
+    app.use("/sendmessage", (req:any, res: any) => {
+        console.log("its okey")
     })
 }
