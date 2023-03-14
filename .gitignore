@@ -1,6 +1,3 @@
 .env.development
 /node_modules
-<<<<<<< HEAD
-=======
 /dist
->>>>>>> 36ad0cc8bf72f7ab99a16fc6350e4956a7226c54
